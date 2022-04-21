@@ -1,16 +1,26 @@
-### Hi there 👋
+### ¡Hola! 👋<h2> Soy Guadalupe(Gris)</h2>
 
-<!--
-**GrisGGG/GrisGGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 🐰•💻 About me </h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const aboutMe = {
+   pronouns: "She" | "her",
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["VueJs"],
+         css: ["Materialize", "Bootstrap"]
+      },
+      },
+   currentOccupation: "open for job opportunities",
+   topicsOfInterest: ["tech", "art", "psychology", "personal development"]
+};
+```
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; NodeJs | Angular
+
+<hr>
