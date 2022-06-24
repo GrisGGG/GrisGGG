@@ -10,9 +10,12 @@ const aboutMe = {
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["VueJs"],
-         css: ["Materialize", "Bootstrap"]
+         js: ["VueJs", "EJS"],
+         css: ["Material ui", "Bootstrap", "SASS", "LESS"]
       },
+      backend:{
+      js:["nodejs", "express"],
+      }
       },
    currentOccupation: "open for job opportunities",
    topicsOfInterest: ["tech", "art", "psychology", "personal development"]
@@ -21,6 +24,6 @@ const aboutMe = {
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; NodeJs | Angular
+- 🔧 &nbsp; ReactJS | Angular 
 
 <hr>
